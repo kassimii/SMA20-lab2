@@ -24,7 +24,7 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity {
     private EditText eName;
     private Button bClick, bShare, bSearch;
-    FloatingActionButton fabShare, fabSearch;
+    private FloatingActionButton fabShare, fabSearch;
     private TextView tName;
     private ArrayList<String> colourList;
     private Spinner colourSpinner;
